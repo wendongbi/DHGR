@@ -4,4 +4,6 @@ Code implementation of the paper accepted by IEEE TKDE2024: "Make Heterophilic G
 The complete code will be released soon. Thanks for your attention.
 * Paper (preprint): [https://ieeexplore.ieee.org/abstract/document/10634240](https://ieeexplore.ieee.org/abstract/document/10634240)
 
-To reproduce the results in the paper, please install the packages according to `conda_envrionments.txt`, and refer to the commons in `run.sh`. For more details, please refer to our preprint paper:[https://ieeexplore.ieee.org/abstract/document/10634240](https://ieeexplore.ieee.org/abstract/document/10634240). Thanks for your attention.
+To reproduce the results in the paper, please install the packages according to `conda_envrionments.txt`, and refer to the commonds in `run.sh` to train the model. We also provide some ipynb files with our training results logging in the path of `DHGR/demo/*.ipynb`.
+
+For more details, please refer to our preprint paper:[https://ieeexplore.ieee.org/abstract/document/10634240](https://ieeexplore.ieee.org/abstract/document/10634240). Thanks for your attention.
